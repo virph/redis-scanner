@@ -1,0 +1,8 @@
+{
+    "env": "local",
+    "redis": {
+        "host": "localhost:6379",
+        "password": "",
+        "scan_count": 10
+    }
+}
